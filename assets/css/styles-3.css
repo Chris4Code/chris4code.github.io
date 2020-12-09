@@ -10,7 +10,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Roboto', sans-serif;
-  color: #545E6C;
+  color: #545e6c;
   background: #f5f5f5;
   font-size: 14px;
   padding: 30px;
@@ -26,7 +26,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #3d884d;
+  color: #3d5c87;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -34,7 +34,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #25532f;
+  color: #263954;
 }
 a:focus {
   text-decoration: none;
@@ -43,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #5BB66F;
+  background: #5b80b5;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -52,7 +52,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #5BB66F;
+  background: #5B80B5;
   position: absolute;
   right: 0;
   width: 240px;
@@ -165,7 +165,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #3d884d;
+  color: #3D5C87;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -184,7 +184,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #3d884d;
+  background: #3D5C87;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
@@ -247,7 +247,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #90ce9d !important;
+  background: #91AACF !important;
 }
 .footer {
   padding: 30px;
@@ -262,8 +262,8 @@ p {
   color: #fb866a;
 }
 .btn-translate {
-  background-color: #3c7749;
-  border-color: #66b277;
+  background-color: #3d5c87;
+  border-color: #6686B3;
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
